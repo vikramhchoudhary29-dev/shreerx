@@ -1,0 +1,1821 @@
+[
+  {
+    "product_category": "RX ECO DIGITAL PROGRESSIVE",
+    "it_code": "SRED01",
+    "lens_type": "WHITE CLEAR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 600
+      },
+      {
+        "name": "HMC Green",
+        "price": 800
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1050
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1300
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1300
+      }
+    ]
+  },
+  {
+    "product_category": "RX ECO DIGITAL PROGRESSIVE",
+    "it_code": "SRED02",
+    "lens_type": "PHOTOSUN GREY",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 900
+      },
+      {
+        "name": "HMC Green",
+        "price": 1100
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1300
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1500
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1700
+      }
+    ]
+  },
+  {
+    "product_category": "RX ECO DIGITAL PROGRESSIVE",
+    "it_code": "SRED03",
+    "lens_type": "BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 830
+      },
+      {
+        "name": "HMC Green",
+        "price": 1000
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1200
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1400
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1500
+      }
+    ]
+  },
+  {
+    "product_category": "RX ECO DIGITAL PROGRESSIVE",
+    "it_code": "SRED04",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1400
+      },
+      {
+        "name": "HMC Green",
+        "price": 1700
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2000
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2110
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2210
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD01",
+    "lens_type": "WHITE CLEAR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 750
+      },
+      {
+        "name": "HMC Green",
+        "price": 1050
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1440
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1550
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1650
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 1950
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD02",
+    "lens_type": "PHOTOSUN GREY",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1050
+      },
+      {
+        "name": "HMC Green",
+        "price": 1450
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1900
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2000
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2100
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2400
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD03",
+    "lens_type": "WHITE BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 880
+      },
+      {
+        "name": "HMC Green",
+        "price": 1296
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1780
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1880
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1980
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2280
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD04",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1510
+      },
+      {
+        "name": "HMC Green",
+        "price": 1990
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2390
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2640
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2790
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3090
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD05",
+    "lens_type": "PHOTOSUN EXTRA COLOUR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1296
+      },
+      {
+        "name": "HMC Green",
+        "price": 1650
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1760
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1900
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD06",
+    "lens_type": "WHITE CLEAR MR-8",
+    "lens_index": "1.60",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1550
+      },
+      {
+        "name": "HMC Green",
+        "price": 2060
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2210
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2350
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2560
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD07",
+    "lens_type": "WHITE BLUE BLOCK UV MR-8",
+    "lens_index": "1.60",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1900
+      },
+      {
+        "name": "HMC Green",
+        "price": 2400
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2600
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2760
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3000
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3290
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD08",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV MR-8",
+    "lens_index": "1.60",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2900
+      },
+      {
+        "name": "HMC Green",
+        "price": 3650
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3960
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 4250
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 4560
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD09",
+    "lens_type": "POLY CLEAR",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1450
+      },
+      {
+        "name": "HMC Green",
+        "price": 1680
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2130
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2350
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2450
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2850
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD10",
+    "lens_type": "WHITE POLY BLUE BLOCK UV",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1550
+      },
+      {
+        "name": "HMC Green",
+        "price": 1830
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2330
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2480
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2580
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2950
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD11",
+    "lens_type": "WHITE HI-INDEX CLEAR",
+    "lens_index": "1.67",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 3100
+      },
+      {
+        "name": "HMC Green",
+        "price": 3550
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3760
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3900
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 4200
+      }
+    ]
+  },
+  {
+    "product_category": "RX GOLD DIGITAL PROGRESSIVE",
+    "it_code": "SRGD12",
+    "lens_type": "POLAROID,GREY,GREEN,BROWN",
+    "lens_index": "1.50",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2000
+      },
+      {
+        "name": "HMC Green",
+        "price": 2350
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2600
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2750
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2950
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF01",
+    "lens_type": "WHITE CLEAR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 880
+      },
+      {
+        "name": "HMC Green",
+        "price": 1230
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1650
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1790
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1910
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2320
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF02",
+    "lens_type": "PHOTOSUN GREY",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1230
+      },
+      {
+        "name": "HMC Green",
+        "price": 1650
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2040
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2140
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2340
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2620
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF03",
+    "lens_type": "WHITE BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1120
+      },
+      {
+        "name": "HMC Green",
+        "price": 1570
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1970
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2070
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2190
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2590
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF04",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1750
+      },
+      {
+        "name": "HMC Green",
+        "price": 2348
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2450
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2750
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2946
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF05",
+    "lens_type": "PHOTOSUN EXTRA COLOUR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "HMC Green",
+        "price": 1910
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2380
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2480
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2580
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2980
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF06",
+    "lens_type": "WHITE CLEAR MR-8",
+    "lens_index": "1.6",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1830
+      },
+      {
+        "name": "HMC Green",
+        "price": 2150
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2650
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2850
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3050
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3450
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF07",
+    "lens_type": "WHITE BLUE BLOCK UV MR-8",
+    "lens_index": "1.6",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1480
+      },
+      {
+        "name": "HMC Green",
+        "price": 1950
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2050
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2260
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2450
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF08",
+    "lens_type": "PHPTOSUN BLUE BLOCK UV MR-8",
+    "lens_index": "1.6",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "HMC Green",
+        "price": 2110
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2590
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2690
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2890
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3290
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF09",
+    "lens_type": "POLY CLEAR",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2150
+      },
+      {
+        "name": "HMC Green",
+        "price": 2650
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3000
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3200
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3400
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3790
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF10",
+    "lens_type": "POLY BLUE BLOCK UV",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 3250
+      },
+      {
+        "name": "HMC Green",
+        "price": 4200
+      },
+      {
+        "name": "HMC Blue",
+        "price": 4350
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 4800
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 5150
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF11",
+    "lens_type": "WHITE HI-INDEX CLEAR",
+    "lens_index": "1.67",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 3400
+      },
+      {
+        "name": "HMC Green",
+        "price": 3700
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3950
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 4460
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 4650
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE FREEFORM PROGRESSIVE",
+    "it_code": "SRAF12",
+    "lens_type": "POLAROID,GREY,GREEN,BROWN",
+    "lens_index": "1.50",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2130
+      },
+      {
+        "name": "HMC Green",
+        "price": 2480
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2700
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2880
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3050
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI01",
+    "lens_type": "WHITE CLEAR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1190
+      },
+      {
+        "name": "HMC Green",
+        "price": 1550
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1960
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2110
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2180
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2650
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI02",
+    "lens_type": "PHOTOSUN GREY",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1720
+      },
+      {
+        "name": "HMC Green",
+        "price": 2130
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2500
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2650
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2750
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3150
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI03",
+    "lens_type": "WHITE BLUE BLOCK UV MR-8",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 3050
+      },
+      {
+        "name": "HMC Green",
+        "price": 3520
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3820
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3980
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 4100
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 4510
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI04",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2600
+      },
+      {
+        "name": "HMC Green",
+        "price": 3050
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3440
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3540
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3740
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 4150
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI05",
+    "lens_type": "PHOTOSUN EXTRA COLOUR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 4210
+      },
+      {
+        "name": "HMC Green",
+        "price": 4790
+      },
+      {
+        "name": "HMC Blue",
+        "price": 5050
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 5350
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 5550
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 5950
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI06",
+    "lens_type": "WHITE CLEAR MR-8",
+    "lens_index": "1.6",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1920
+      },
+      {
+        "name": "HMC Green",
+        "price": 2320
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2750
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2380
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2980
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3390
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI07",
+    "lens_type": "WHITE BLUE BLOCK UV MR-8",
+    "lens_index": "1.6",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1980
+      },
+      {
+        "name": "HMC Green",
+        "price": 2480
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2780
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2980
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3380
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI08",
+    "lens_type": "PHOTOSUN BLUE BLOCK MR-8",
+    "lens_index": "1.6",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2000
+      },
+      {
+        "name": "HMC Green",
+        "price": 2700
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2960
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3590
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3800
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 4200
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI09",
+    "lens_type": "POLY CLEAR",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 5750
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI10",
+    "lens_type": "POLY BLUE BLOCK UV",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -12.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 3850
+      },
+      {
+        "name": "HMC Green",
+        "price": 4190
+      },
+      {
+        "name": "HMC Blue",
+        "price": 4590
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 4950
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 5150
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 5500
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI11",
+    "lens_type": "WHITE HINDEX CLEAR",
+    "lens_index": "1.67",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2280
+      },
+      {
+        "name": "HMC Green",
+        "price": 2700
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2830
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3030
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3260
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI12",
+    "lens_type": "POLAROID,GREY,GREEN,BROWN",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2180
+      },
+      {
+        "name": "HMC Green",
+        "price": 2460
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2960
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3060
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3260
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3590
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI13",
+    "lens_type": "PHOTOSUN POLY BLUE BLOCK UV",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 2400
+      },
+      {
+        "name": "HMC Green",
+        "price": 2770
+      },
+      {
+        "name": "HMC Blue",
+        "price": 3170
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3370
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3570
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3930
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI14",
+    "lens_type": "WHITE HINDEX BLUE BLOCK UV",
+    "lens_index": "1.67",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 3970
+      },
+      {
+        "name": "HMC Green",
+        "price": 4370
+      },
+      {
+        "name": "HMC Blue",
+        "price": 4720
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 4820
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 4920
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 5320
+      }
+    ]
+  },
+  {
+    "product_category": "RX ADVANCE INTERNAL FREEFORM PROGRESSIVE",
+    "it_code": "SRAI15",
+    "lens_type": "PHOTOSUN HI-INDEX BLUE BLOCK UV",
+    "lens_index": "1.67",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 7550
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB01",
+    "lens_type": "WHITE CLEAR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 400
+      },
+      {
+        "name": "HMC Green",
+        "price": 700
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1050
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1150
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1350
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB02",
+    "lens_type": "PHOTOSUN GREY",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 800
+      },
+      {
+        "name": "HMC Green",
+        "price": 950
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1370
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1480
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1700
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2100
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB03",
+    "lens_type": "WHITE BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 750
+      },
+      {
+        "name": "HMC Green",
+        "price": 990
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1230
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1380
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1600
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2050
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB04",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1150
+      },
+      {
+        "name": "HMC Green",
+        "price": 1650
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1800
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1950
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2200
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2800
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB05",
+    "lens_type": "POLY BLUE BLOCK UV",
+    "lens_index": "1.59",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1050
+      },
+      {
+        "name": "HMC Green",
+        "price": 1350
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1680
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1900
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2080
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2380
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB07",
+    "lens_type": "PHOTOSUN BROWN",
+    "lens_index": "1.56",
+    "power_range": "+5.00 To -4.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1000
+      },
+      {
+        "name": "HMC Green",
+        "price": 1380
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1580
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1800
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2100
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRKB08",
+    "lens_type": "WHITE LENTICULAR",
+    "lens_index": "1.56",
+    "power_range": "UP TO +16",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 860
+      },
+      {
+        "name": "HMC Green",
+        "price": 1300
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1460
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1660
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1856
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRDB01",
+    "lens_type": "WHITE FLAT TOP D-B",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 440
+      },
+      {
+        "name": "HMC Green",
+        "price": 750
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1050
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1150
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1300
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRDB02",
+    "lens_type": "PHOTOSUN FLAT TOP D-BF",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1000
+      },
+      {
+        "name": "HMC Green",
+        "price": 1380
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1580
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1880
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2100
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2600
+      }
+    ]
+  },
+  {
+    "product_category": "RX BIFOCAL & D BIFOCAL",
+    "it_code": "SRDB03",
+    "lens_type": "PHOTOSUN BB FLAT TOP D-BF",
+    "lens_index": "1.56",
+    "power_range": "+5.00 To -5.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1900
+      },
+      {
+        "name": "HMC Green",
+        "price": 2300
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2800
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 3000
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 3100
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3500
+      }
+    ]
+  },
+  {
+    "product_category": "RX SINGLE VISION",
+    "it_code": "SRSV01",
+    "lens_type": "WHITE CLEAR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -6.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 400
+      },
+      {
+        "name": "HMC Green",
+        "price": 640
+      },
+      {
+        "name": "HMC Blue",
+        "price": 760
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 900
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1300
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 1750
+      }
+    ]
+  },
+  {
+    "product_category": "RX SINGLE VISION",
+    "it_code": "SRSV02",
+    "lens_type": "PHOTOSUN GREY",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 750
+      },
+      {
+        "name": "HMC Green",
+        "price": 1100
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1230
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1380
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1600
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2780
+      }
+    ]
+  },
+  {
+    "product_category": "RX SINGLE VISION",
+    "it_code": "SRSV03",
+    "lens_type": "WHITE BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 850
+      },
+      {
+        "name": "HMC Green",
+        "price": 1130
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1280
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1450
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 1700
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 2350
+      }
+    ]
+  },
+  {
+    "product_category": "RX SINGLE VISION",
+    "it_code": "SRSV04",
+    "lens_type": "PHOTOSUN BLUE BLOCK UV",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1150
+      },
+      {
+        "name": "HMC Green",
+        "price": 1650
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1800
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1950
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2200
+      },
+      {
+        "name": "Gold HMC + Low Reflection",
+        "price": 3030
+      }
+    ]
+  },
+  {
+    "product_category": "RX SINGLE VISION",
+    "it_code": "SRSV05",
+    "lens_type": "PHOTOSUN EXTRA COLOUR",
+    "lens_index": "1.56",
+    "power_range": "+6.00 To -10.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1000
+      },
+      {
+        "name": "HMC Green",
+        "price": 1380
+      },
+      {
+        "name": "HMC Blue",
+        "price": 1560
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 1800
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2100
+      }
+    ]
+  },
+  {
+    "product_category": "RX SINGLE VISION",
+    "it_code": "SRSV06",
+    "lens_type": "POLAROID GREY, GREEN, BROWN",
+    "lens_index": "1.5",
+    "power_range": "+6.00 To -8.00",
+    "coatings": [
+      {
+        "name": "Hard Coat",
+        "price": 1600
+      },
+      {
+        "name": "HMC Green",
+        "price": 2000
+      },
+      {
+        "name": "HMC Blue",
+        "price": 2200
+      },
+      {
+        "name": "HMC Blue/Green",
+        "price": 2310
+      },
+      {
+        "name": "Drivex HMC Magenta",
+        "price": 2500
+      }
+    ]
+  }
+]

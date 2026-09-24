@@ -1,0 +1,2 @@
+import { ensureSchema } from '@/lib/db'; import { failureFor, json } from '@/lib/api'; import { importedRows, upsertPricingRules } from '@/lib/importers';
+export const runtime = 'nodejs'; export async function POST(request) { try { await ensureSchema(); return json(await upsertPricingRules(await importedRows(request, 'pricing'))); } catch (error) { return failureFor(error, 'Pricing-rule import failed'); } }

@@ -1,0 +1,62 @@
+[
+  {
+    "rule_name": "CYL Extra Charge",
+    "category": "General",
+    "condition": "Above 4.00 CYL"
+  },
+  {
+    "rule_name": "Super Hard Coat",
+    "category": "Coating",
+    "condition": "Extra Charge"
+  },
+  {
+    "rule_name": "SHMC",
+    "category": "Coating",
+    "condition": "Extra Charge"
+  },
+  {
+    "rule_name": "Bifocal ADD Range",
+    "category": "Validation",
+    "condition": "ADD from 1.00 to 3.00"
+  },
+  {
+    "rule_name": "Progressive Fitting Height",
+    "category": "Progressive",
+    "condition": "Normal"
+  },
+  {
+    "rule_name": "Progressive Fitting Height",
+    "category": "Progressive",
+    "condition": "Short"
+  },
+  {
+    "rule_name": "Progressive Fitting Height",
+    "category": "Progressive",
+    "condition": "Ultrashort"
+  },
+  {
+    "rule_name": "Photosun Extra Colour",
+    "category": "Product Option",
+    "condition": "Brown"
+  },
+  {
+    "rule_name": "Photosun Extra Colour",
+    "category": "Product Option",
+    "condition": "Blue"
+  },
+  {
+    "rule_name": "Photosun Extra Colour",
+    "category": "Product Option",
+    "condition": "Green"
+  },
+  {
+    "rule_name": "Photosun Extra Colour",
+    "category": "Product Option",
+    "condition": "Pink"
+  },
+  {
+    "rule_name": "Photosun Extra Colour",
+    "category": "Product Option",
+    "condition": "Purple"
+  }
+]

@@ -1,0 +1,7 @@
+import { ensureSchema } from '@/lib/db';
+import { clean, db, failure, failureFor, json, noStore } from '@/lib/api';
+
+export const runtime = 'nodejs'; export const dynamic = 'force-dynamic'; export const revalidate = 0;
+
+export async function GET(request) { try { await ensureSchema(); const code = clean(new URL(request.url).searchParams.get('itCode')); const rows = code ? await db()`SELECT * FROM products WHERE UPPER(it_code)=UPPER(${code})` : await db()`SELECT * FROM products ORDER BY it_code`; return json(rows, noStore); } catch (error) { return failureFor(error); } }
+export async function POST(request) { try { await ensureSchema(); const body = await request.json(); const code = clean(body.it_code); const lens = clean(body.lens_type); if (!code || !lens) return failure('IT Code and Lens Type are required.'); const rows = await db()`INSERT INTO products(it_code,lens_type,lens_index,dia,power_range,base_price,coatings,extra_data) VALUES(${code},${lens},${clean(body.lens_index)},${clean(body.dia)},${clean(body.power_range)},${Number(body.base_price) || 0},${JSON.stringify(body.coatings || [])},${JSON.stringify(body.extra_data || {})}) ON CONFLICT(it_code) DO UPDATE SET lens_type=EXCLUDED.lens_type,lens_index=EXCLUDED.lens_index,dia=EXCLUDED.dia,power_range=EXCLUDED.power_range,base_price=EXCLUDED.base_price,coatings=EXCLUDED.coatings,extra_data=EXCLUDED.extra_data,updated_at=NOW() RETURNING *`; return json(rows[0], { status: 201 }); } catch (error) { return failureFor(error); } }
